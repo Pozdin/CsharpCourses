@@ -1,0 +1,5 @@
+L:\Programs\CsharpCourses260515\Lesson2\bin\Debug\Lesson2.exe.config
+L:\Programs\CsharpCourses260515\Lesson2\bin\Debug\Lesson2.exe
+L:\Programs\CsharpCourses260515\Lesson2\bin\Debug\Lesson2.pdb
+L:\Programs\CsharpCourses260515\Lesson2\obj\Debug\Lesson2.exe
+L:\Programs\CsharpCourses260515\Lesson2\obj\Debug\Lesson2.pdb
